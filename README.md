@@ -20,9 +20,18 @@ I wnat to be a person who gives you new wisdom.
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>&nbsp;&nbsp;
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;
   <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/><br>
+</p>
+<p align = "center">
   <img alt="Spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>&nbsp;&nbsp;
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
-  <img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
+  <img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/></br>
+</p>
+<p align = "center">
+  <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>&nbsp;&nbsp;
+  <img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>&nbsp;&nbsp;
+  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />&nbsp;&nbsp;
+  <img alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />&nbsp;&nbsp;
+  <img alt="Jira" src="https://img.shields.io/badge/Jira%20-%23013243.svg?&style=for-the-badge&logo=Jira&logoColor=white" /></br>
 </p>
 </br></br>
 <h1 align = "center"> ✨Activity </h1>
@@ -30,7 +39,7 @@ I wnat to be a person who gives you new wisdom.
 
 ![activity](https://user-images.githubusercontent.com/60774058/114303970-a891b900-9b0b-11eb-8890-4d510b24e1ae.png)
 
-</br></br>
+</br>
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=92a8d1&height=150&section=footer)
 
