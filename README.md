@@ -8,11 +8,17 @@ I wnat to be a person who gives you new wisdom.
 <h1 align = "center"> Hi there 👋 </h1>
 </br>
 <p align = "center">
-  안녕하세요? 백엔드 개발과 빅데이터를 공부하고 있는 장은정입니다🥰</br>
+  I'm EunJeong Jang, a junior BackEnd developer.🥰</br>
+  I want to be a developer who creates meaningful and reliable services.💻</br>
+  🌱 I’m currently learning BigData.</br>
+  I am learning R and python, and I plan to work on a big data project.</br>
+</p>
+<!--
+안녕하세요? 백엔드 개발과 빅데이터를 공부하고 있는 장은정입니다🥰</br>
   쉽게 이해할 수 있는 코드를 작성하고 최적화 하는 것을 중요하게 생각하며</br>
   새로운 기술을 배우고 프로젝트에 적용하는 것을 좋아합니다.</br>
   배움으로써 지식을 쌓고 도전함으로써 능력을 함양하여 도전적이고 창의적인 SW 개발자로 성장하겠습니다.</br>
-</p>
+-->
 </br></br>
 <h1 align = "center"> 🛠Tech Stack🛠 </h1>
 </br>
