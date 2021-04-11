@@ -39,7 +39,7 @@ I wnat to be a person who gives you new wisdom.
 <h1 align = "center"> ✨Activity </h1>
 </br>
 
-![activity](https://user-images.githubusercontent.com/60774058/114303970-a891b900-9b0b-11eb-8890-4d510b24e1ae.png)
+![activity_comp](https://user-images.githubusercontent.com/60774058/114312383-71340400-9b2d-11eb-8531-7b7d72e284eb.JPG)
 
 </br>
 
