@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Eunjeong%20Jang)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Eunjeong%20Jang)
 <!-- newWisdom(); 등 동사 목표를 표현할 수 있는 함수이름을 찾았어
 동사 목표를 풀어주자.
 예를들어
@@ -16,7 +16,7 @@ I wnat to be a person who gives you new wisdom.
 # ✨Activity
 ![activity](https://user-images.githubusercontent.com/60774058/114303970-a891b900-9b0b-11eb-8890-4d510b24e1ae.png)
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=50&section=footer)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=footer)
 
 <!--
 **jangeunjeong/jangeunjeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
