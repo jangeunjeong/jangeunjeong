@@ -27,8 +27,11 @@ I wnat to be a person who gives you new wisdom.
 </br></br>
 <h1 align = "center"> ✨Activity </h1>
 </br>
+
 ![activity](https://user-images.githubusercontent.com/60774058/114303970-a891b900-9b0b-11eb-8890-4d510b24e1ae.png)
+
 </br></br>
+
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=92a8d1&height=150&section=footer)
 
 
