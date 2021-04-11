@@ -11,7 +11,10 @@ I wnat to be a person who gives you new wisdom.
 배움으로써 지식을 쌓고 도전함으로써 능력을 함양하여 도전적이고 창의적인 SW 개발자로 성장하겠습니다.
 
 # 🛠Tech Stack🛠
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+
+# ✨Activity
+![activity](https://user-images.githubusercontent.com/60774058/114303970-a891b900-9b0b-11eb-8890-4d510b24e1ae.png)
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=50&section=footer)
 
