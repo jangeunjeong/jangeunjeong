@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=f7cac9&height=250&section=header&text=EunjeongJang)
+
 <!-- newWisdom(); 등 동사 목표를 표현할 수 있는 함수이름을 찾았어
 동사 목표를 풀어주자.
 예를들어
@@ -36,17 +36,6 @@ I wnat to be a person who gives you new wisdom.
   <img alt="Jira" src="https://img.shields.io/badge/Jira%20-%23013243.svg?&style=for-the-badge&logo=Jira&logoColor=white" /></br>
 </p>
 </br></br>
-<h1 align = "center"> ✨Activity </h1>
-</br>
-
-![activity_comp](https://user-images.githubusercontent.com/60774058/114312383-71340400-9b2d-11eb-8531-7b7d72e284eb.JPG)
-
-</br>
-
-![footer](https://capsule-render.vercel.app/api?type=slice&color=92a8d1&height=150&section=footer)
-
-
-
 
 
 
